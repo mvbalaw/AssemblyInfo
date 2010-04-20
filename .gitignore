@@ -1,0 +1,11 @@
+*.suo
+bin
+obj
+*.resharper.user
+_ReSharper.*
+dist
+*.cache
+Build.bat
+build_support
+RakeFile
+*.user
